@@ -1,0 +1,17 @@
+.container{
+    width: 100vw;
+}
+
+
+.ul{
+    display: flex;
+    padding: 0;
+    align-items: center;
+    justify-content: space-around;
+    border: 2px solid red;
+}
+
+.li{
+    cursor: pointer;
+    font-weight: bold;
+}
